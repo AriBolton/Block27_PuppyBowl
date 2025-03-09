@@ -1,5 +1,7 @@
 # Block 27C Workshop: Puppy Bowl Event
 
+Nelify link- https://app.netlify.com/sites/phenomenal-hummingbird-49a2f6/overview
+
 ## Overview
 You are tasked with creating a website for the Puppy Bowl Event showcasing team. The website is built using React, and you are required to use the RTK Query library to fetch player details from the provided API endpoint: `https://fsa-puppy-bowl.herokuapp.com/api/${cohort}/players`.
 
